@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="ec2-16-162-33-100.ap-east-1.compute.amazonaws.com" id="0b4476cb-61f2-4db1-83be-c6e10f90ee1c" keyPath="$USER_HOME$/.ssh/internal-t3micro.pem" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
